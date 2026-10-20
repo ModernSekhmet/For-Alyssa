@@ -40,7 +40,7 @@ window.onload = () => {
 
 		"You deserve a life filled with everything you can imagine.",
 
-		"Adventure. Happiness. Peace. Everything that makes you feel whole.",
+		"Adventure, happiness, peace. Everything that makes you feel whole.",
 
 		"I hope this 27th chapter brings you only the best.",
 
