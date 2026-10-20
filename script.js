@@ -40,8 +40,6 @@ window.onload = () => {
 
 		"You deserve a life filled with everything you can imagine.",
 
-		"",
-
 		"Adventure. Happiness. Peace. Everything that makes you feel whole.",
 
 		"I hope this 27th chapter brings you only the best.",
@@ -52,9 +50,11 @@ window.onload = () => {
 
 		"Happy Birthday Alyssa ❤️",
 
-		"Thank you for being you.",
+		"Thank you for being a part of my life :) ",
 
-		"3... 2...",
+		"3... ",
+
+		"2...",
 
 		"1...",
 
