@@ -1,6 +1,6 @@
 const config = {
-	birthdayPerson: "BOB",
-	sender: "BRIJESH"
+	birthdayPerson: "Alyssa",
+	sender: "Anntigonne"
 };
 
 window.onload = () => {
@@ -28,33 +28,33 @@ window.onload = () => {
 
 		`Hey ${config.birthdayPerson}...`,
 
-		"Pause for a moment...",
+		"I was thinking of you.",
 
-		"Today isn't just another day.",
+		"I couldn't forget your day today.",
 
-		"It's a celebration of your journey.",
+		"You mean a lot to me and you always have since the first day I met you",
 
-		"Every smile.",
+		"I admire the person that you are, the strength and courage that you have.",
 
-		"Every memory.",
+		"All of the little things that make you so unique, I admire that of you.",
 
-		"Every little victory.",
+		"You deserve a life filled with everything you can imagine.",
 
-		"Another year older.",
+		"",
 
-		"Another year stronger.",
+		"Adventure. Happiness. Peace. Everything that makes you feel whole.",
+
+		"I hope this 27th chapter brings you only the best.",
+
+		"Wherever life takes us, I'll always be grateful to have crossed your path.",
+
+		"Never forget how special you are to those around you.",
+
+		"Happy Birthday Alyssa ❤️",
 
 		"Thank you for being you.",
 
-		"Keep dreaming.",
-
-		"Keep growing.",
-
-		"Keep shining.",
-
-		"3...",
-
-		"2...",
+		"3... 2...",
 
 		"1...",
 
