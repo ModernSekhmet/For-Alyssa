@@ -38,7 +38,7 @@ window.onload = () => {
 
 		"All of the little things that make you so unique, I admire you for.",
 
-		"I believe deserve a life filled with everything you can imagine.",
+		"I believe you deserve a life filled with everything you can imagine.",
 
 		"Adventure, happiness, peace. Everything that makes you feel whole.",
 
@@ -46,7 +46,7 @@ window.onload = () => {
 
 		"Wherever life takes us, I'll always be grateful to have crossed your path.",
 
-		"I hope that is something you will always remember.",
+		"If you ever find yourself doubting it, I hope you'll remember these words.",
 
 		"Never forget how special you are to those around you.",
 
