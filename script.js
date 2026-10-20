@@ -58,7 +58,7 @@ window.onload = () => {
 
 		"1...",
 
-		`🎂 	HAPPY BIRTHDAY	 ${config.birthdayPerson} !🎂`,
+		`🎂 		HAPPY BIRTHDAY		 ${config.birthdayPerson} !!  🎂`,
 
 		"3 Years left until you become old like me :)",
 
