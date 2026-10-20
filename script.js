@@ -26,19 +26,19 @@ window.onload = () => {
 
 	const scenes = [
 
-		`Hey ${config.birthdayPerson}...`,
+		`So... ${config.birthdayPerson}...`,
 
 		"I was thinking of you.",
 
 		"I couldn't forget your day today.",
 
-		"You mean a lot to me and you always have since the first day I met you",
+		"You mean a lot to me and you always have since the first day I met you.",
 
-		"I admire the person that you are, the strength and courage that you have.",
+		"I admire the person that you are. You're smart, silly and courageous.",
 
-		"All of the little things that make you so unique, I admire that of you.",
+		"All of the little things that make you so unique, I admire you for.",
 
-		"You deserve a life filled with everything you can imagine.",
+		"I believe deserve a life filled with everything you can imagine.",
 
 		"Adventure, happiness, peace. Everything that makes you feel whole.",
 
@@ -58,11 +58,11 @@ window.onload = () => {
 
 		"1...",
 
-		`🎂 HAPPY BIRTHDAY ${config.birthdayPerson} 🎂`,
+		`🎂 HAPPY BIRTHDAY	 ${config.birthdayPerson} !🎂`,
 
-		"3 Years left until you become ancient like me :P",
+		"3 Years left until you become old like me :)",
 
-		`With ❤️ ${config.sender}`
+		`Sincerely, ${config.sender}  ❤️`
 	];
 
 	startBtn.addEventListener("click", () => {
