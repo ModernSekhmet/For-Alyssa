@@ -80,7 +80,7 @@ window.onload = () => {
 
 			nextScene();
 
-			setInterval(nextScene, 3500);
+			setInterval(nextScene, 5500);
 
 		}, 800);
 	});
