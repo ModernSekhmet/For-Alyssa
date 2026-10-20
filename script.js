@@ -32,7 +32,7 @@ window.onload = () => {
 
 		"I couldn't forget your day today.",
 
-		"You mean a lot to me and you always have since the first day I met you.",
+		"You mean a lot to me. That has never changed since the day I met you.",
 
 		"I admire the person that you are. You're smart, silly and courageous.",
 
@@ -46,11 +46,11 @@ window.onload = () => {
 
 		"Wherever life takes us, I'll always be grateful to have crossed your path.",
 
+		"I hope that is something you will always remember.",
+
 		"Never forget how special you are to those around you.",
 
-		"You'll always be special to me",
-
-		"Thank you for being a part of my life :) ",
+		"You'll always be special to me.",
 
 		"3... ",
 
