@@ -185,7 +185,7 @@ window.onload = () => {
 
 			heart.className = "heart";
 
-			heart.innerHTML = "❤️";
+			heart.innerHTML = "✨";
 
 			heart.style.left =
 				Math.random() * 100 + "vw";
