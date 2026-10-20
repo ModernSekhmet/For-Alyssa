@@ -81,8 +81,8 @@ window.onload = () => {
 
 			nextScene();
 
-			setInterval(nextScene, 5500);
 
+			
 		}, 800);
 	});
 
@@ -100,6 +100,14 @@ window.onload = () => {
 
 			currentScene++;
 
+			const displayedMessage = scenes[currentScene - 1];
+			const delay = ["3...", "2...", "1..."].includes(displayedMessage)
+				? 1000
+				: 5500;
+
+			if (currentScene < scenes.length) {
+				setTimeout(nextScene, delay);
+			}
 			if (currentScene === 10) {
 				balloons();
 			}
