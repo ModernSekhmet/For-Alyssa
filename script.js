@@ -26,7 +26,7 @@ window.onload = () => {
 
 	const scenes = [
 
-		`So... ${config.birthdayPerson}...`,
+		`So...`,
 
 		"I was thinking of you.",
 
@@ -48,7 +48,7 @@ window.onload = () => {
 
 		"Never forget how special you are to those around you.",
 
-		"Happy Birthday Alyssa ❤️",
+		"You'll always be special to me",
 
 		"Thank you for being a part of my life :) ",
 
