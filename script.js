@@ -60,7 +60,7 @@ window.onload = () => {
 
 		`🎂 HAPPY BIRTHDAY ${config.birthdayPerson} 🎂`,
 
-		"May this year bring happiness, success and unforgettable memories.",
+		"3 Years left until you become ancient like me :P",
 
 		`With ❤️ ${config.sender}`
 	];
