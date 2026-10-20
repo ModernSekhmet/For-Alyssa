@@ -11,6 +11,7 @@ window.onload = () => {
 	const scene = document.getElementById("scene");
 
 	const music = document.getElementById("music");
+	const finaleMusic = document.getElementById("finaleMusic")
 	const musicBtn = document.getElementById("musicBtn");
 
 	const glow = document.querySelector(".cursor-glow");
